@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Niranjan-David
 - 👀 I’m interested in Cyberecurity
-- 🌱 I’m currently learning Networking
+- 🌱 I’m currently learning Cyber security through TryHackMe Hands-on experience 
 - 📫 How to reach me: linkedin.com/in/niranjan-david-37ba6a258
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 <!---
 Niranjan-David/Niranjan-David is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
